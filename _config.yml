@@ -13,8 +13,8 @@ title                    : "Yuantao Zhang"
 title_separator          : "-"
 name                     : &name "Yuantao Zhang"
 description              : &description "personal description"
-url                      : https://github.com/zyttt-coder/zyttt-coder.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://github.com/zyttt-coder/zyttt-coder.github.io"
+baseurl                  : ""
 repository               : "zyttt-coder/zyttt-coder.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,11 +24,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yuantao Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         :   
   bio              : "Master's student at NUS School of Computing and intern at NExT++"
   location         : "Singapore"
-  employer         : "National University of Singapore"
-  uri              : #url
+  employer         : 
+  uri              : 
   email            : "yuantaozhang@u.nus.edu" 
 
   # Academic websites
