@@ -13,7 +13,7 @@ title                    : "Yuantao Zhang"
 title_separator          : "-"
 name                     : &name "Yuantao Zhang"
 description              : &description "personal description"
-url                      : "https://github.com/zyttt-coder/zyttt-coder.github.io"
+url                      : https://zyttt-coder.github.io/
 baseurl                  : ""
 repository               : "zyttt-coder/zyttt-coder.github.io"
 
