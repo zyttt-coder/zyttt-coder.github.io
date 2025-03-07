@@ -22,7 +22,7 @@ repository               : "zyttt-coder/zyttt-coder.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   name             : "Yuantao Zhang"
   pronouns         :   
   bio              : "Master's student at NUS School of Computing and intern at NExT++"
