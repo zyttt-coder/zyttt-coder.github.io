@@ -14,13 +14,11 @@ Publications
 ------
 **M. Li\***, **<u>Y. Zhang</u>\***, W. Wang, W. Shi, Z. Liu, F. Feng, T. Chua.  
 *Self-Improvement Towards Pareto Optimality: Mitigating Preference Conflicts in Multi-Objective Alignment.*  
-Submitted to [ARR - February 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February). (*Equal contribution.)  
-【[**Arxiv**](https://arxiv.org/pdf/2502.14354), [**GitHub**](https://github.com/zyttt-coder/SIPO)】
+Submitted to [ARR - February 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February).【[**Arxiv**](https://arxiv.org/pdf/2502.14354), [**GitHub**](https://github.com/zyttt-coder/SIPO)】
 
 **<u>Y. Zhang</u>**, Z. Yang.  
 *A Perplexity and Menger Curvature-Based Approach for Similarity Evaluation of Large Language Models.*  
-Re-submitted to [TACL](https://transacl.org/), February 2025. (First submission received review scores of 5, 3, and 2 out of 5.)  
-【[**GitHub**](https://github.com/zyttt-coder/LLM_similarity)】
+Re-submitted to [TACL](https://transacl.org/), February 2025.【[**GitHub**](https://github.com/zyttt-coder/LLM_similarity)】
 
 
 
