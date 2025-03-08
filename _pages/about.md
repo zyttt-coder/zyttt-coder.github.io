@@ -10,7 +10,7 @@ I am currently a Master's student in the [**Artificial Intelligence**](https://w
 
 I obtained my Bachelor's degree in **Computer Science** from the [**CUHK(SZ) School of Data Science**](https://sds.cuhk.edu.cn/en). My research interests include **Natural Language Processing**, **LLM Alignment**, and **Reinforcement Learning**.  
 
-You can find my CV [**here**]().  
+You can find my CV [**here**]().
 
 Publications 
 ---
