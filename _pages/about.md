@@ -13,7 +13,7 @@ I obtained my Bachelor's degree in **Computer Science** from the [**CUHK(SZ) Sch
 You can find my CV [**here**]().
 
 Publications 
----
+------
 **M. Li\***, **<u>Y. Zhang</u>\***, W. Wang, W. Shi, Z. Liu, F. Feng, T. Chua.  
 *Self-Improvement Towards Pareto Optimality: Mitigating Preference Conflicts in Multi-Objective Alignment.*  
 Submitted to [ARR - February 2025](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February). (*Equal contribution.)  
