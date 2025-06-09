@@ -16,7 +16,7 @@ Publications
 ------
 **M. Li\***, **<u>Y. Zhang</u>\***, W. Wang, W. Shi, Z. Liu, F. Feng, T. Chua.  
 *Self-Improvement Towards Pareto Optimality: Mitigating Preference Conflicts in Multi-Objective Alignment.*  
-Submitted to [ACL Rolling Review](https://openreview.net/group?id=aclweb.org/ACL/ARR/2025/February).【[**Arxiv**](https://arxiv.org/pdf/2502.14354), [**GitHub**](https://github.com/zyttt-coder/SIPO)】
+2025 ACL Findings (*Equal contribution).【[**Arxiv**](https://arxiv.org/pdf/2502.14354), [**GitHub**](https://github.com/zyttt-coder/SIPO)】
 
 **<u>Y. Zhang</u>**, Z. Yang.  
 *A Perplexity and Menger Curvature-Based Approach for Similarity Evaluation of Large Language Models.*  
